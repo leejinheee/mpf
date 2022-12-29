@@ -1,0 +1,14 @@
+#work .wList_add{display: flex; flex-wrap: wrap; border-left: 1px solid #fff; border-top: 1px solid #000;}
+#work .wList_add .box{width: calc(100% / 3); height: calc(100vw / 3); padding: 2.3vw; border-right: 1px solid #fff; border-bottom: 1px solid #fff; cursor: pointer;}
+#work .wList_add .box:hover{background-color: #F8C0FF; color: #000; transition: background-color 0.4s;}
+#work .wList_add .box .wrap{width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: space-between;}
+
+#work .wList_add .box .wrap .top{display: flex; justify-content: space-between; align-items: start;}
+#work .wList_add .box .wrap .top .day{font-size: 18px;}
+#work .wList_add .box .wrap .top .point{font-size: 30px; line-height: 1;}
+
+
+#work .wList_add .box .wrap .Tnail{width: 73.5%;  background: #222; margin: 0 auto;}
+#work .wList_add .box .wrap .Tnail img{width: 100%; display: block;}
+
+#work .wList_add .box .wrap .bot{font-size: 18px; text-align: left;}
