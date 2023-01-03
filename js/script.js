@@ -93,7 +93,7 @@ $(document).ready(function(){
         <img class="mBot0" src="./img/nails_5.png"> <img class="mBot0" src="./img/nails_6.gif">`],
         ["eevoo", "laberry_1.png", "2017년 9월", "<li>Brochure design</li> <li>Poster design</li> <li> business card design</li>", "Laberry", "<li>design 60%</li> ", "<li>Photoshop</li> <li>Illustrator</li>", "Laberry에서 운영중인 화장품 전문인 eevoo의 브로슈어입니다.<br>제품마다 가진 생명력있는 특징과 정보를 중점을 두어 eevoo의 브랜드 가치를 사용자들에게 전달하여<br>자연스럽게 제품에 대한 콘텐츠들을 연계하고 소비할 수 있도록 가독성있게 제작되었습니다.", `<a class="display_n">See the website</a>`, `<img src="./img/laberry_2.png">`],
         ["Crypto", "trading_1.png", "2020년 12월", "<li>responsive Web</li>", "-", "<li>design 100%</li>", "<li>XD</li> <li>Photoshop</li> <li>Illustrator</li>", "간편하고 안전하게 암호화폐를 구매 및 판매를 대행해 드리는 사이트입니다.<br>이용이 어려우신 분들에게 콘텐츠를 정확히 전달하기 위해 불필요한 디자인을 최대한 배재하여<br>가독성을 높이며 사용법은 쉽고 명확하게 접할 수 있도록 제작하였습니다.<br>기획에 일부 참여하고 디자인 100% 진행하였습니다.", `<a class="display_n">See the website</a>`, `<img src="./img/trading_2.png">`],        
-        ["OAI", "oai_1.png", "2019년 9월", "<li>responsive Web</li>", "OAI", "<li>design 50%</li>", "<li>Photoshop</li> <li>Illustrator</li>", "1993년도에 설립됐으며 고객의 만족을 최우선으로 추구하며 미래를 향한 비상을하는 항공사의 웹사이트를 진행하였습니다.<br>다양한 프로모션 콘텐츠를 중점적으로 쉽고 빠르게 보여주기 위해 불필요한 디자인을 최대한 배제하여 가독성을 높였습니다.<br>또한 옴니항공만의 아이덴티티와 톤앤매너를 활용하여 기업 이미지를 강화시키고자 하였습니다.", `<a class="display_n">See the website</a>`, `<img src="./img/oai_2.png">`],
+        ["OAI", "oai_1.png", "2019년 9월", "<li>responsive Web</li>", "OAI", "<li>design 50%</li>", "<li>Photoshop</li> <li>Illustrator</li>", "1993년도에 설립됐으며 고객의 만족을 최우선으로 추구하며 미래를 향한 비상을 하는 항공사의 웹사이트를 진행하였습니다.<br>저의 작업은 PC 서브페이지와 Mobile 모든 페이지를 맡아 디자인하였습니다.<br>다양한 프로모션 콘텐츠를 중점적으로 쉽고 빠르게 보여주기 위해 불필요한 디자인을 최대한 배제하여 가독성을 높였습니다.<br>또한 옴니항공만의 아이덴티티와 톤앤매너를 활용하여 기업 이미지를 강화시키고자 하였습니다.", `<a class="display_n">See the website</a>`, `<img src="./img/oai_2.png">`],
         ["Hanhwa", "hanhwa_1.png", "2022년 2월", "<li>responsive Web</li>", "-", "<li>publishing 100%</li> <li>script 100%</li>", "<li>Visual Studio Code</li>", "더 나은 커리어를 위해 퍼블리싱 100% 작업한 반응형 사이트입니다.<br>한화건설의 메인페이지, 서브페이지(Hanwha E&C, BUSINESS, PR CENTER, CAREERS, CUSTOMER)를<br>HTML, CSS, JAVASCRIPT를 활용하여 다양한 기능을 웹 표준에 맞게 반응형으로 구축하였습니다.<br>하단 링크를 통해 확인해 주세요.", `<a href="https://leejinheee.github.io/hanhwa/">See the website</a>`, ``],
     ];
 
@@ -181,7 +181,7 @@ $(document).ready(function(){
     var $skills = [
         ["Design Tool", "90", "Photoshop, Illustrator, xd, figma 사용이 가능합니다.<br>  명함, 오프라인배너, 포스터, 브로슈어부터 웹, 모바일 쇼핑몰<br>  상세페이지 등 다양한 분야의 디자인을 경험했습니다."],
         ["Html & CSS", "70", "html 웹 표준, 접근성을 준수하여 제작이 가능합니다.<br>css 속성을 이해하며 디자인 시안에 따른 디자인을<br>구현할 수 있습니다.<br>미디어쿼리를 이해하며 반응형 웹을 제작할 수 있습니다."],
-        ["Javascript", "60", "Javascript 기본적인 문법 사용과 플러그인 사용이 가능하며,<br>jQuery 라이브러리 사용 가능합니다."],
+        ["Javascript", "50", "Javascript 기본적인 문법 사용과 플러그인 사용이 가능하며,<br>jQuery 라이브러리 사용 가능합니다."],
         /*["Backend", "50", "Vue에 기초 지식이 있으며, Vue.js 프레임워크를 이용하여 <br>간단한 홈페이지 제작 경험이 있습니다."],*/
         ["DataBase", "40", "개인 포트폴리오 작업 중 PHP를 이용하여 MySql의 Table 생성<br>조건문을 사용해서 로그인, 회원가입, 개인 정보 수정,<br>장바구니 담기, 상품 취소, 상품 검색, 상품 등록 같은 기능들이<br>구동 가능하도록 제작 경험이 있습니다."],
         ["Certificate", "100", /*'<img src="./img/certificate8.png">',*/ "⦁&nbsp;&nbsp;&nbsp;웹디자인기능사&nbsp;&nbsp;-&nbsp;&nbsp;한국산업인력공단<br>⦁&nbsp;&nbsp;&nbsp;GTQ(포토샵) 1, 2급&nbsp;&nbsp;-&nbsp;&nbsp;한국생산성본부 <br>⦁&nbsp;&nbsp;&nbsp;예술분장 2, 3급&nbsp;&nbsp;-&nbsp;&nbsp;한국미용문화사연구협회"],
